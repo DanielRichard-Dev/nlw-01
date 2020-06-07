@@ -34,7 +34,7 @@
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:| :-------------------------:|
-|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.png"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile3.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile4.jfif">|
+|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.png"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile2.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile3.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile4.jfif">|
 
 <h1>Segue abaixo algumas imagens do projeto web:</h1>
 
