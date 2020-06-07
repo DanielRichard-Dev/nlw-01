@@ -34,11 +34,11 @@
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:| :-------------------------:|
-|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.png"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile2.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile3.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile4.jfif">|
+|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile1.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile2.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile3.jfif"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/mobile4.jfif">|
 
 <h1>Segue abaixo algumas imagens do projeto web:</h1>
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/web01.JPG"> | <img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/web02.JPG"> |
-|<img width="1604" alt="Next Level Week Imagem dispositivo mobile" src="./web/src/assets/web03.JPG"> | 
+|<img width="1604" alt="Next Level Week Imagem dispositivo web" src="./web/src/assets/web01.jpg"> | <img width="1604" alt="Next Level Week Imagem dispositivo web" src="./web/src/assets/web02.jpg"> |
+|<img width="1604" alt="Next Level Week Imagem dispositivo web" src="./web/src/assets/web03.jpg"> | 
